@@ -4,5 +4,4 @@
 
 I'm a web developer, mostly working with PHP and Symfony.
 
-Visitor Counter :
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nsbx.nsbx)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=nsbx.nsbx)
