@@ -5,3 +5,5 @@
 I'm a web developer, mostly working with PHP and Symfony.
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=nsbx.nsbx)
+
+![Metrics](https://github.com/Nsbx/Nsbx/blob/master/github-metrics.svg)
