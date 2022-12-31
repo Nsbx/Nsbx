@@ -6,8 +6,6 @@
 
 ### <div align="center">I'm Nicolas, a back-end developer 👨‍💻 </div>
 
-- 🔭 I’m currently working on [MCU-Watch-Order](https://marvel-cinematic-universe-watch-order.netlify.app/)
-
 <br/>
 
 ## My Skill Set
