@@ -8,10 +8,6 @@
 
 - 🔭 I’m currently working on [MCU-Watch-Order](https://marvel-cinematic-universe-watch-order.netlify.app/)
 
-- 🌱 I’m currently learning Godot
-
-- ⚡ Fun fact: I use tabs over spaces but I respect convention
-
 <br/>
 
 ## My Skill Set
