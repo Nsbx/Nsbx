@@ -1,13 +1,4 @@
 <!-- **Nsbx/Nsbx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-<div align="center">
-<img src="https://nsbx.github.io/Nsbx/assets/greetings.gif" align="center" style="width: 500px" />
-</div>
-
-### <div align="center">I'm Nicolas, a back-end developer 👨‍💻 </div>
-
-<br/>
-
 ## My Skill Set
 <table><tr><td valign="top" width="33%">
 
